@@ -1,0 +1,30 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+#root {
+    min-height: 100vh;
+    background-color: #282c34;
+    color: white;
+}
+.nav{
+    display: flex;
+    background-color: #3264c6;
+}
+h1{
+    margin-left: 20px;
+}
+img{
+    border-radius: 40px;
+    margin: 20px;
+}
+li{
+    list-style-type: none;
+    padding: 20px;
+}
+ul{
+    display: flex;
+} */
