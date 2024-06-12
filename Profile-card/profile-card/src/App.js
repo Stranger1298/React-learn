@@ -1,3 +1,5 @@
+import './App.css'
+
 const style={
   // border:'6px solid blue',
   height:"600px",
@@ -6,7 +8,7 @@ const style={
   borderRadius:'20px',
   margin:'auto',
   boxShadow: 'rgba(0, 0, 0, 0.35) 0px 5px 15px',
-  marginTop:'50px'
+  marginTop:'30px'
   }
 
   const img_style={
