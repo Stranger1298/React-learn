@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
-
 * {
   margin: 0;
   padding: 0;
@@ -10,14 +9,16 @@
 
 .heading {
   text-align: center;
-  font-weight: 200;
+  font-weight: 300;
   margin-top: 20px;
+  font-size: 40px;
 }
 
 .p-heading {
   text-align: center;
-  font-weight: 150;
+  font-weight: 250;
   margin-top: 28px;
+  font-size: 25px;
 }
 
 .p-para {
@@ -60,12 +61,6 @@
 }
 .footer{
   text-align: center;
-}
-.btn{
-  height: 40px;
-  width: 100px;
-  background-color: rgb(217, 204, 229);
-  border-radius: 10px;
 }
 @media (min-width: 600px) {
   .pizza-list-container {
